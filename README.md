@@ -1,4 +1,4 @@
-Code for MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences (https://arxiv.org/pdf/2402.08925)
+Code for **MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences** (https://arxiv.org/pdf/2402.08925)
 
 Tulu-7b, Tulu-2-7b and llama2-7b can be used in this codebase. Change the datapath and model path in the scripts.
 
