@@ -2,8 +2,7 @@ Code for **MaxMin-RLHF: Towards Equitable Alignment of Large Language Models wit
 
 Tulu-7b, Tulu-2-7b and llama2-7b can be used in this codebase. Change the datapath and model path in the scripts.
 
-Data: https://drive.google.com/drive/folders/1uyW6i1bmUF9UO5kCFvcW3AJhmKhOewr4?usp=sharing
-
+Data(from RLPHF): https://drive.google.com/drive/folders/1uyW6i1bmUF9UO5kCFvcW3AJhmKhOewr4?usp=sharing
 
 # Reward Learning with EM
 
